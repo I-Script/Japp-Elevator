@@ -1,4 +1,4 @@
-package org.japp.winsows.test;
+package org.japp.windows.test;
 
 import org.japp.windows.Japp;
 

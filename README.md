@@ -6,7 +6,7 @@ You will be able to write/copy and other actions without SecurityException.
 
 ####How to use
 
-Simply, call the method `Japp#elevateApplication` and stop the app is the value `true` is returned.
+Simply, call the method `Japp#elevateApplication` and stop the app if the returned value is `true`.
 Example:
 
     public class Main {

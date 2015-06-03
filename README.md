@@ -1,7 +1,7 @@
 ###Japp-Elevator
 ####What is it
 
-Is a small library which allow you to elevate your application as admin rights.
+Is a small library which allow you to elevate your application as admin rights.  
 You will be able to write/copy and other actions without SecurityException.
 
 ####How to use
